@@ -4,7 +4,7 @@ jdk:
 
 addons:
   sonarcloud:
-    organization: dfalessi
+    organization: dfalessi-github
     token: f52be470347249634f1399fe813b27030437ca38
 script:
 - ant build
